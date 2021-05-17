@@ -1,0 +1,22 @@
+{
+  "name": "html-middle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vs192ef34/html-middle.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vs192ef34/html-middle/issues"
+  },
+  "homepage": "https://github.com/vs192ef34/html-middle#readme",
+  "devDependencies": {
+    "sass": "^1.32.13"
+  }
+}
